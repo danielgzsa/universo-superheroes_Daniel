@@ -3,6 +3,7 @@
 ## Joker
 - Poder: Inteligencia y manipulación
 - Objetivo: Crear el caos en la ciudad.
+- Experto en explisivos y trampas.
 
 ## Thanos
 - Poder: Fuerza y resistencia sobrehumanas
